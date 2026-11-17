@@ -1,6 +1,6 @@
 # CaRe-FD Research Handover
 
-Research materials accompanying **CaRe-FD: Class-Aware Reliability and Recipient-Deficiency-Aware Federated Distillation for Intrusion Detection**, submitted to **SOICT 2026**.
+Research materials accompanying **CaRe-FD: Class-Aware Reliability and Recipient-Deficiency-Aware Federated Distillation for Intrusion Detection**, submitted to **ICCIES 2027**.
 
 **Authors:** Truong Duc Duong, Tran Tuan Kiet, Nguyen Huu Quyen, and Pham Van-Hau.
 
